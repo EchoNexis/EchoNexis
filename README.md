@@ -4,7 +4,7 @@ bachelor of science - computer science - tu dortmund<br>currently looking for ne
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-ickert-527ab42a3/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.linkedin.com/in/jonas-ickert-527ab42a3/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/jonas_kert/)
 
 
 # 💻 Tech Stack:
