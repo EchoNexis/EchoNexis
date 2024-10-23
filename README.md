@@ -1,5 +1,6 @@
 # About Me:
-bachelor of science - computer science - tu dortmund<br>currently looking for new projects
+bachelor of science - computer science - tu dortmund<br>currently looking for new projects <br>
+!! DiaNote and WorkBestie will be merges in future. Still in progress !!
 
 
 ## Socials:
